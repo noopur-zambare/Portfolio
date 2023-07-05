@@ -2,7 +2,7 @@
 
 export const ProjectList = [
   {
-    img: "https://noopur-zambare.github.io/Portfolio/public/arxiv.png",
+    img: "./public/arxiv.png",
     title: "Incorporating Deep Q - Network with Multiclass Classification Algorithms",
     description: "Attempted testing the way supervised machine learning techniques and deep q networks perform together. Investigated whether deep reinforcement learning techniques could assist multiclass classification to increase pre-diction accuracy.",
     tech_stack: ["Deep Reinforcement Learning", "Machine Learning", "Python"],
@@ -11,7 +11,7 @@ export const ProjectList = [
   },
 
   {
-    img: "https://noopur-zambare.github.io/Portfolio/public/progetto.png",
+    img: "./public/progetto.png",
     title: "Progetto",
     description: "Project Management Dashboard to manage ongoing projects in an institute.",
     tech_stack: ["MongoDB", "Express JS", "Node JS", "React", "RestAPI", "JavaScript","CSS"],
@@ -19,7 +19,7 @@ export const ProjectList = [
     demo_url: "https://github.com/noopur-zambare/Progetto---Project-Management-Website/assets/92505473/84f914df-b9c6-41fc-ac91-4ce5fda12fc8",
   },
   {
-    img: "https://noopur-zambare.github.io/Portfolio/public/product-demand.png",
+    img: "./public/product-demand.png",
     title: "Product Demand Forecasting",
     description:
       "Product Demand Forecasting using Machine Learning.",
@@ -28,14 +28,14 @@ export const ProjectList = [
     demo_url: "https://github.com/noopur-zambare/Progetto---Project-Management-Website/assets/92505473/84f914df-b9c6-41fc-ac91-4ce5fda12fc8",
   },
   {
-    img: "https://noopur-zambare.github.io/Portfolio/public/vd_detection.png",
+    img: "./public/vd_detection.png",
     title: "Vehicle Detection in Aerial Images",
     description: "Utilized the transfer learning to train the VGG16 model for vehicle detection in multi-modal imagery using (VEDAI) dataset, which contains overhead imagery.",
     tech_stack: ["Deep Learning", "Python"],
     github_url: "https://github.com/noopur-zambare/Vehicle-Detection-in-Aerial-Images",
   },
   {
-    img: "https://noopur-zambare.github.io/Portfolio/public/text_summarizer.jpg",
+    img: "./public/text_summarizer.jpg",
     title: "Text Summarizer",
     description: "An webapp to summerize the long text documents.",
     tech_stack: ['Python', 'Streamlit'],

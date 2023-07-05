@@ -1,7 +1,7 @@
 // --------------------------------------- Internships List
 export const InternshipsList = [
     {
-      img: "https://noopur-zambare.github.io/Portfolio/public/mitacs.png",
+      img: "/public/mitacs.png",
       title: "MITACS Globalink Research Internship",
       duration: "University of Calagry, Canada | May - Aug 2023 ",
       description: "Return on Investment of data analytics",
@@ -23,7 +23,7 @@ export const InternshipsList = [
       tech_stack: ['Machine Learning', 'Deep learning', 'NLP', 'Spacy', 'Textacy'],
     },
     {
-      img: "https://noopur-zambare.github.io/Portfoliopublic/automation_edge.png",
+      img: "https://noopur-zambare.github.io/Portfolio/public/automation_edge.png",
       title: "Data Science Intern",
       duration: "Remote | Dec 2021 - Jan 2022",
       description: "Performed IT Ticket Discovery and Exploratory Data Analysis to identify automation opportunities and designed ChatBots for HR using BOT Framework Composer",

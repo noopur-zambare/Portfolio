@@ -1,7 +1,7 @@
 // --------------------------------------- Internships List
 export const InternshipsList = [
     {
-      img: "/public/mitacs.png",
+      img: "./mitacs.png",
       title: "MITACS Globalink Research Internship",
       duration: "University of Calagry, Canada | May - Aug 2023 ",
       description: "Return on Investment of data analytics",

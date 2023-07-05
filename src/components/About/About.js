@@ -33,7 +33,7 @@ function About() {
         <div className="SectionTitle">About Me</div>
         <div className="BigCard">
           <Image
-            src="https://noopur-zambare.github.io/Portfolio-Website/public/me.png"
+            src="https://noopur-zambare.github.io/Portfolio/public/me.png"
           />
 
           <div className="AboutBio">
@@ -63,7 +63,7 @@ function About() {
                 <ul>
                   <li> 
                     <div style={{ display: 'flex', alignItems: 'center' }}>
-                      <img src={'https://noopur-zambare.github.io/Portfolio-Website/public/iitj.png'} alt="IIT Jodhpur Logo" style={{ height: '70px', marginRight: '28px' }} />
+                      <img src={'https://noopur-zambare.github.io/Portfolio/public/iitj.png'} alt="IIT Jodhpur Logo" style={{ height: '70px', marginRight: '28px' }} />
                       <div>
                         <b>Indian Institute of Technology, Jodhpur India</b>
                         <ul>
@@ -75,7 +75,7 @@ function About() {
                   </li><br/><hr/>
                   <li> 
                     <div style={{ display: 'flex', alignItems: 'center' }}>
-                      <img src={'https://noopur-zambare.github.io/Portfolio-Website/public/gvhs.png'} alt="GVHS Logo" style={{ height: '70px', marginRight: '23px' }} />
+                      <img src={'https://noopur-zambare.github.io/Portfolio/public/gvhs.png'} alt="GVHS Logo" style={{ height: '70px', marginRight: '23px' }} />
                       <div>
                         <b>Green Valley High School, Vadodara India </b>
                           <ul>
@@ -88,7 +88,7 @@ function About() {
                   </li><br/><hr/>
                   <li> 
                     <div style={{ display: 'flex', alignItems: 'center' }}>
-                      <img src={'https://noopur-zambare.github.io/Portfolio-Website/public/skis.jpg'} alt="SKIS Logo" style={{ height: '70px', marginRight: '18px' }} />
+                      <img src={'https://noopur-zambare.github.io/Portfolio/public/skis.jpg'} alt="SKIS Logo" style={{ height: '70px', marginRight: '18px' }} />
                       <div>
                         <b>SKI School, Vapi India </b>
                           <ul>

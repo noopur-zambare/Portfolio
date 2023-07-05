@@ -3,10 +3,10 @@ import "./Extracurricular.css"
 
 const Extracurricular= () => {
   const tileData = [
-    { text: "Inter IIT Tech Meet 11.0", text2: "ML Team Lead Grad Capital", imageSrc: "/interiit.png" },
-    { text: "Rotaract Club of IIT Jodhpur", text2: "Volunteer", imageSrc: "/rotary.jpeg" },
-    { text:"IIT Jodhpur's Technical + Entrepreneurial Festival",text2: "Team Media - Assistant Head", imageSrc: "/prometeo.jpeg" },
-    { text:"Entrepreneurship Event",text2: "HULT Prize winner at IIT Jodhpur", imageSrc: "/hult.jpeg" },
+    { text: "Inter IIT Tech Meet 11.0", text2: "ML Team Lead Grad Capital", imageSrc: "./public/interiit.png" },
+    { text: "Rotaract Club of IIT Jodhpur", text2: "Volunteer", imageSrc: "./public/rotary.jpeg" },
+    { text:"IIT Jodhpur's Technical + Entrepreneurial Festival",text2: "Team Media - Assistant Head", imageSrc: "./public/prometeo.jpeg" },
+    { text:"Entrepreneurship Event",text2: "HULT Prize winner at IIT Jodhpur", imageSrc: "./public/hult.jpeg" },
   ];
 
   const [hoveredTile, setHoveredTile] = useState(null);

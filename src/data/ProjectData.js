@@ -6,8 +6,8 @@ export const ProjectList = [
     title: "Incorporating Deep Q - Network with Multiclass Classification Algorithms",
     description: "Attempted testing the way supervised machine learning techniques and deep q networks perform together. Investigated whether deep reinforcement learning techniques could assist multiclass classification to increase pre-diction accuracy.",
     tech_stack: ["Deep Reinforcement Learning", "Machine Learning", "Python"],
-    github_url: "https://github.com/noopur-zambare/Progetto---Project-Management-Website",
-    url: "https://github.com/noopur-zambare/Progetto---Project-Management-Website/assets/92505473/84f914df-b9c6-41fc-ac91-4ce5fda12fc8",
+    github_url: "https://github.com/noopur-zambare/Multiclass---Classification-with-DQN",
+    url: "http://arxiv.org/abs/2307.03908",
   },
 
   {
